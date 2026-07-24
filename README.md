@@ -1,17 +1,3 @@
-<p align="center">
-  <img src="assets/banner.svg" alt="Agentic Retrieval Engine 2026" width="100%"/>
-</p>
-
-<br/>
-
-<p align="center">
-  <img src="assets/demo.svg" alt="Cortex RAG in action" width="92%"/>
-</p>
-<p align="center">
-  <sub>↑ &nbsp; what actually happens every time you send a message</sub>
-</p>
-
-<br/>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.10+-3776ab?style=flat-square&logo=python&logoColor=white"/>
@@ -29,7 +15,7 @@
 
 <h3 align="center">
   You upload a PDF. You ask a question.<br/>
-  Cortex RAG retrieves, cross-checks, reasons, and cites — entirely on your machine.<br/>
+  RAG retrieves, cross-checks, reasons, and cites — entirely on your machine.<br/>
   <sub>No API key &nbsp;·&nbsp; No cloud upload &nbsp;·&nbsp; No subscription</sub>
 </h3>
 
