@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.svg" alt="Cortex RAG — Agentic Retrieval Engine 2026" width="100%"/>
+  <img src="assets/banner.svg" alt="Agentic Retrieval Engine 2026" width="100%"/>
 </p>
 
 <br/>
@@ -348,15 +348,4 @@ docker-compose up
   <sub><i>The future of retrieval-augmented AI is local — no internet required.</i></sub>
 </p>
 
----
-
-<p align="center">
-  <b>If Cortex RAG saved you time, consider buying us a coffee ☕</b>
-  <br/><br/>
-  <a href="https://razorpay.me/@saiakhil">
-    <img src="https://img.shields.io/badge/Support%20this%20project-Razorpay-02042B?style=for-the-badge&logo=razorpay&logoColor=3395FF"/>
-  </a>
-  <br/><br/>
-  <sub>Every contribution keeps this project free and open-source.</sub>
-</p>
 # enterprise_ai_assistant
