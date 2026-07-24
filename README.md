@@ -1,18 +1,4 @@
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3.10+-3776ab?style=flat-square&logo=python&logoColor=white"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Streamlit-1.30-ff4b4b?style=flat-square&logo=streamlit&logoColor=white"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Ollama-local_LLM-ffb347?style=flat-square"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/RAG-9_techniques-8b7bff?style=flat-square"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/zero-cloud-2dd4bf?style=flat-square"/>
-  &nbsp;
-  <img src="https://img.shields.io/github/stars/SaiAkhil066/DeepSeek-RAG-Chatbot?style=flat-square&color=ffb347"/>
-</p>
-
 <h3 align="center">
   You upload a PDF. You ask a question.<br/>
   RAG retrieves, cross-checks, reasons, and cites — entirely on your machine.<br/>
