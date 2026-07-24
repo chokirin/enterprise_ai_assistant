@@ -7,11 +7,6 @@
 
 <br/>
 
-<p align="center">
-  <a href="https://cortex-rag-beta.vercel.app/">
-    <img src="https://img.shields.io/badge/🌐%20Enterprise%20Solutions-cortex--rag--beta.vercel.app-c8f135?style=for-the-badge&labelColor=070809"/>
-  </a>
-</p>
 
 <br/>
 
